@@ -1,0 +1,49 @@
+{
+    "result": [
+    {
+      "in-game_name": "Yatoro",
+      "name": "Illya Mulyarchuk",
+      "birth_date": "2003-03-12",
+      "Position": "Carry - Position 1",
+      "Nationallity": "Ukraine",
+      "Team": "Team Spirit",
+      "Poster": "https://liquipedia.net/commons/images/5/52/Yatoro_2023_Team_Spirit.png"
+    },
+    {
+        "in-game_name": "LarI",
+        "name": "Denis Sigitov",
+        "birth_date": "2002-01-22",
+        "Position": "Midlaner - Position 2",
+        "Nationallity": "Russia",
+        "Team": "Team Spirit",
+        "Poster": "https://liquipedia.net/commons/images/d/dd/LarI_2023_Team_Spirit.png"
+    },
+    {
+        "in-game_name": "Collapse",
+        "name": "Magomed Khalilov",
+        "birth_date": "1998-02-25",
+        "Position": "Offlaner - Position 3",
+        "Nationallity": "Russia",
+        "Team": "Team Spirit",
+        "Poster": "https://liquipedia.net/commons/images/b/b3/Collapse_2023_Team_Spirit.png"
+    },
+    {
+        "in-game_name": "Mira",
+        "name": "Myroslav Kolpakov",
+        "birth_date": "1999-11-03",
+        "Position": "Soft Support - Position 4",
+        "Nationallity": "Ukraine",
+        "Team": "Team Spirit",
+        "Poster": "https://liquipedia.net/commons/images/c/cb/Mira_2023_Team_Spirit.png"
+    },
+    {
+        "in-game_name": "Miposhka",
+        "name": "Yaroslav Naidenov",
+        "birth_date": "1997-11-30",
+        "Position": "Hard Support - Position 5",
+        "Nationallity": "Russia",
+        "Team": "Team Spirit",
+        "Poster": "https://liquipedia.net/commons/images/0/08/Miposhka_2023_Team_Spirit.png"
+    }
+   ]
+  }
